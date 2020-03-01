@@ -1,2 +1,2 @@
 # keras_tensorflow
-Basic classification: Classify images using Keras and Tensorflow in Python
+Basic classification: Classify images using Keras in Tensorflow backend
